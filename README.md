@@ -1,4 +1,4 @@
-# [![jan-sommer.dev](https://raw.githubusercontent.com/j-sommer/j-sommer/main/img/banner.png)](https://jan-sommer.dev)
+# [![jan-sommer.dev](https://raw.githubusercontent.com/j-sommer/j-sommer/main/img/banner.jpg)](https://jan-sommer.dev)
 
 ## Hi, I'm Jan!
 I'm a software developer based in Warendorf, Germany. I develop applications for all platforms but I prefer the web.
